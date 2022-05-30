@@ -2,9 +2,6 @@
 
 Former student 42 Paris, for a year i am self-taught in cyber security.
 
-<br \>
-<br \>
-
 - 🌱 I’m currently learning JavaScript and React
 
 ### Languages and Tools :
@@ -25,3 +22,6 @@ Former student 42 Paris, for a year i am self-taught in cyber security.
 
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/WiIoti#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/WiIoti#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/github-light.svg)](https://github.com/Wiloti#gh-light-mode-only)
+[![img_contact](./img/github-dark.svg)](https://github.com/Wiloti#gh-dark-mode-only)
