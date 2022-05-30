@@ -1,5 +1,7 @@
 ### Wiloti
 Former student 42 Paris, for a year i am self-taught in cyber security.
+
+<br \>
 <br \>
 
 - 🌱 I’m currently learning JavaScript and React
@@ -15,6 +17,8 @@ Former student 42 Paris, for a year i am self-taught in cyber security.
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<br \>
+<br \>
 
 ### Connect with me :
 
