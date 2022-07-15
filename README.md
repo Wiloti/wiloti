@@ -2,7 +2,7 @@
 
 Former student 42 Paris, for a year i am self-taught in cyber security.
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning Advanced Python
 
 ### Languages and Tools :
 
